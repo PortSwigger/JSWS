@@ -6,6 +6,6 @@ SerialVersion: 0
 MinPlatformVersion: 0
 ProOnly: False
 Author: Ken Johnson
-ShortDescription: Parse a response containing a JavaScript Web Service Proxy (JSWS) and generate JSON requests for all methods supported.
+ShortDescription: Parses JSWS responses and generates JSON requests for all supported methods.
 EntryPoint: build/libs/jsws-parser-all.jar
 BuildCommand: gradle fatJar
