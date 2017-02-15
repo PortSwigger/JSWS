@@ -1,0 +1,11 @@
+Uuid: 1d1b8fd9be354c64a5887f25fc271e56
+ExtensionType: 1
+Name: JSWS Parser
+ScreenVersion: 1.0
+SerialVersion: 0
+MinPlatformVersion: 0
+ProOnly: False
+Author: Ken Johnson
+ShortDescription: Parse a response containing a JavaScript Web Service Proxy (JSWS) and generate JSON requests for all methods supported.
+EntryPoint: build/libs/jsws-parser-all.jar
+BuildCommand: gradle fatJar
