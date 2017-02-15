@@ -32,7 +32,7 @@ public class JSWSParserTab implements ITab {
     }
 
     public String getTabCaption() {
-        return "JSWS";
+        return "JSWS Parser";
     }
 
     public Component getUiComponent() {
