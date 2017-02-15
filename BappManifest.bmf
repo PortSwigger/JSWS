@@ -1,8 +1,9 @@
 Uuid: 1d1b8fd9be354c64a5887f25fc271e56
 ExtensionType: 1
 Name: JSWS Parser
+RepoName: jsws-parser
 ScreenVersion: 1.0
-SerialVersion: 0
+SerialVersion: 1
 MinPlatformVersion: 0
 ProOnly: False
 Author: Ken Johnson
